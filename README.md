@@ -16,7 +16,7 @@ From the AWS and script, the dataset is being factored into 4 tables and all of 
 ###### Vine Table
 ![](https://github.com/WilliamBHW/Amazon_Vine_Analysis/blob/main/Resources/vine_table.png)
 
-<br><br>
+<br>
 
 Notice: Each table has their own column attribute and unique keys, datasets with corresponding column will need to have data type converted in order to be loaded into PostgreSQL. (for reference, please refer to ```Amazon_Reviews_ETL.ipynb``` and sections ```review_id_table```, ```vine_table```)<br>
 
